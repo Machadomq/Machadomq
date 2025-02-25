@@ -1,4 +1,4 @@
- ## Olá! Meu nome é Gabriel Machado
+<h1 align="center">Olá! Meu nome é Gabriel Machado</h1>
 
 <div align="center"> 
   <a href = "mailto:gbrielmq1213@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
