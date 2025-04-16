@@ -12,7 +12,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machadomq&layout=compact&theme=light"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Machadomq&show_icons=true&theme=light"/>
 
-
 </div>
 
 
